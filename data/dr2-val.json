@@ -1,0 +1,387 @@
+{
+    "13_C0_17.jpeg": {
+        "Tonsillar Exudate": false,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": false,
+        "Erythema": false,
+        "notes": ""
+    },
+    "13_C1_29.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": false,
+        "Erythema": true,
+        "notes": ""
+    },
+    "13_C1_3.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": false,
+        "Uvula Deviation": false,
+        "Erythema": true,
+        "notes": ""
+    },
+    "16_C0_21.jpeg": {
+        "Tonsillar Exudate": false,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": false,
+        "Erythema": true,
+        "notes": ""
+    },
+    "17_C0_4.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": false,
+        "Erythema": true,
+        "notes": ""
+    },
+    "17_C0_5.jpeg": {
+        "Tonsillar Exudate": false,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": false,
+        "Erythema": false,
+        "notes": ""
+    },
+    "18_C1_20.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": false,
+        "Erythema": true,
+        "notes": ""
+    },
+    "18_C1_30.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": true,
+        "Erythema": false,
+        "notes": ""
+    },
+    "20_C0_2.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": false,
+        "Uvula Deviation": false,
+        "Erythema": true,
+        "notes": ""
+    },
+    "20_C0_7.jpeg": {
+        "Tonsillar Exudate": false,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": false,
+        "Erythema": false,
+        "notes": ""
+    },
+    "20_C1_24.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": false,
+        "Erythema": false,
+        "notes": ""
+    },
+    "24_C1_22.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": true,
+        "Erythema": false,
+        "notes": ""
+    },
+    "25_C0_9.jpeg": {
+        "Tonsillar Exudate": false,
+        "Tonsillar Swelling": false,
+        "Uvula Deviation": false,
+        "Erythema": true,
+        "notes": ""
+    },
+    "27_C1_18.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": false,
+        "Uvula Deviation": false,
+        "Erythema": false,
+        "notes": ""
+    },
+    "32_C1_31.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": false,
+        "Uvula Deviation": false,
+        "Erythema": false,
+        "notes": ""
+    },
+    "34_C0_8.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": false,
+        "Erythema": true,
+        "notes": ""
+    },
+    "35_C1_6.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": false,
+        "Erythema": true,
+        "notes": ""
+    },
+    "36_C1_10.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": false,
+        "Erythema": true,
+        "notes": ""
+    },
+    "37_C1_16.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": true,
+        "Erythema": true,
+        "notes": ""
+    },
+    "40_C0_13.jpeg": {
+        "Tonsillar Exudate": false,
+        "Tonsillar Swelling": false,
+        "Uvula Deviation": false,
+        "Erythema": true,
+        "notes": ""
+    },
+    "40_C1_14.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": true,
+        "Erythema": true,
+        "notes": ""
+    },
+    "41_C0_14.jpeg": {
+        "Tonsillar Exudate": false,
+        "Tonsillar Swelling": false,
+        "Uvula Deviation": true,
+        "Erythema": true,
+        "notes": ""
+    },
+    "42_C0_18.jpeg": {
+        "Tonsillar Exudate": false,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": false,
+        "Erythema": true,
+        "notes": ""
+    },
+    "4_C1_7.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": false,
+        "Erythema": true,
+        "notes": ""
+    },
+    "52_C1_19.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": false,
+        "Erythema": true,
+        "notes": ""
+    },
+    "54_C0_20.jpeg": {
+        "Tonsillar Exudate": false,
+        "Tonsillar Swelling": false,
+        "Uvula Deviation": false,
+        "Erythema": false,
+        "notes": ""
+    },
+    "55_C1_9.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": false,
+        "Erythema": true,
+        "notes": ""
+    },
+    "64_C1_23.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": true,
+        "Erythema": true,
+        "notes": ""
+    },
+    "64_C1_27.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": false,
+        "Erythema": true,
+        "notes": ""
+    },
+    "68_C1_4.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": false,
+        "Uvula Deviation": false,
+        "Erythema": false,
+        "notes": ""
+    },
+    "73_C1_13.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": false,
+        "Uvula Deviation": false,
+        "Erythema": true,
+        "notes": ""
+    },
+    "73_C1_17.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": false,
+        "Erythema": true,
+        "notes": ""
+    },
+    "73_C1_2.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": false,
+        "Erythema": false,
+        "notes": ""
+    },
+    "73_C1_21.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": false,
+        "Erythema": true,
+        "notes": ""
+    },
+    "75_C1_33.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": true,
+        "Erythema": true,
+        "notes": ""
+    },
+    "76_C0_16.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": false,
+        "Uvula Deviation": false,
+        "Erythema": false,
+        "notes": ""
+    },
+    "76_C1_25.jpeg": {
+        "Tonsillar Exudate": false,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": false,
+        "Erythema": true,
+        "notes": ""
+    },
+    "78_C1_32.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": true,
+        "Erythema": true,
+        "notes": ""
+    },
+    "79_C1_5.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": true,
+        "Erythema": true,
+        "notes": ""
+    },
+    "7_C0_3.jpeg": {
+        "Tonsillar Exudate": false,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": false,
+        "Erythema": true,
+        "notes": ""
+    },
+    "83_C1_11.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": false,
+        "Erythema": true,
+        "notes": ""
+    },
+    "87_C1_28.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": false,
+        "Erythema": true,
+        "notes": ""
+    },
+    "88_C0_1.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": false,
+        "Uvula Deviation": false,
+        "Erythema": false,
+        "notes": ""
+    },
+    "89_C0_12.jpeg": {
+        "Tonsillar Exudate": false,
+        "Tonsillar Swelling": false,
+        "Uvula Deviation": true,
+        "Erythema": false,
+        "notes": ""
+    },
+    "89_C1_15.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": false,
+        "Uvula Deviation": true,
+        "Erythema": false,
+        "notes": ""
+    },
+    "8_C1_12.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": false,
+        "Erythema": false,
+        "notes": ""
+    },
+    "8_C1_26.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": false,
+        "Erythema": false,
+        "notes": ""
+    },
+    "8_C1_34.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": false,
+        "Erythema": true,
+        "notes": ""
+    },
+    "90_C0_11.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": false,
+        "Erythema": true,
+        "notes": ""
+    },
+    "91_C0_19.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": false,
+        "Erythema": false,
+        "notes": ""
+    },
+    "91_C0_6.jpeg": {
+        "Tonsillar Exudate": false,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": false,
+        "Erythema": false,
+        "notes": ""
+    },
+    "93_C1_8.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": false,
+        "Erythema": true,
+        "notes": ""
+    },
+    "95_C0_10.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": false,
+        "Erythema": true,
+        "notes": ""
+    },
+    "9_C0_15.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": true,
+        "Uvula Deviation": false,
+        "Erythema": true,
+        "notes": ""
+    },
+    "9_C1_1.jpeg": {
+        "Tonsillar Exudate": true,
+        "Tonsillar Swelling": false,
+        "Uvula Deviation": false,
+        "Erythema": true,
+        "notes": ""
+    }
+}

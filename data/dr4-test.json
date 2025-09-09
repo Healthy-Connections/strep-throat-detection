@@ -1,0 +1,219 @@
+{
+    "11_C0_32.jpeg": {
+        "Characteristic 1": false,
+        "Characteristic 2": false,
+        "Characteristic 3": false,
+        "Characteristic 4": false,
+        "notes": "Normal"
+    },
+    "13_C1_37.jpeg": {
+        "Characteristic 1": true,
+        "Characteristic 2": false,
+        "Characteristic 3": false,
+        "Characteristic 4": true,
+        "notes": ""
+    },
+    "15_C1_46.jpeg": {
+        "Characteristic 1": true,
+        "Characteristic 2": true,
+        "Characteristic 3": false,
+        "Characteristic 4": true,
+        "notes": ""
+    },
+    "1_C1_43.jpeg": {
+        "Characteristic 1": true,
+        "Characteristic 2": false,
+        "Characteristic 3": false,
+        "Characteristic 4": false,
+        "notes": ""
+    },
+    "20_C0_26.jpeg": {
+        "Characteristic 1": true,
+        "Characteristic 2": false,
+        "Characteristic 3": false,
+        "Characteristic 4": false,
+        "notes": ""
+    },
+    "20_C0_42.jpeg": {
+        "Characteristic 1": false,
+        "Characteristic 2": true,
+        "Characteristic 3": false,
+        "Characteristic 4": false,
+        "notes": ""
+    },
+    "21_C0_27.jpeg": {
+        "Characteristic 1": false,
+        "Characteristic 2": false,
+        "Characteristic 3": false,
+        "Characteristic 4": false,
+        "notes": "Normal. Maybe slightly erythematous"
+    },
+    "21_C1_67.jpeg": {
+        "Characteristic 1": true,
+        "Characteristic 2": true,
+        "Characteristic 3": false,
+        "Characteristic 4": false,
+        "notes": ""
+    },
+    "24_C0_23.jpeg": {
+        "Characteristic 1": true,
+        "Characteristic 2": true,
+        "Characteristic 3": false,
+        "Characteristic 4": false,
+        "notes": ""
+    },
+    "24_C1_48.jpeg": {
+        "Characteristic 1": true,
+        "Characteristic 2": true,
+        "Characteristic 3": false,
+        "Characteristic 4": true,
+        "notes": ""
+    },
+    "25_C1_45.jpeg": {
+        "Characteristic 1": true,
+        "Characteristic 2": false,
+        "Characteristic 3": false,
+        "Characteristic 4": false,
+        "notes": ""
+    },
+    "26_C0_24.jpeg": {
+        "Characteristic 1": false,
+        "Characteristic 2": true,
+        "Characteristic 3": false,
+        "Characteristic 4": true,
+        "notes": ""
+    },
+    "26_C0_34.jpeg": {
+        "Characteristic 1": false,
+        "Characteristic 2": true,
+        "Characteristic 3": false,
+        "Characteristic 4": false,
+        "notes": ""
+    },
+    "37_C1_39.jpeg": {
+        "Characteristic 1": true,
+        "Characteristic 2": true,
+        "Characteristic 3": false,
+        "Characteristic 4": false,
+        "notes": ""
+    },
+    "38_C0_22.jpeg": {
+        "Characteristic 1": false,
+        "Characteristic 2": true,
+        "Characteristic 3": false,
+        "Characteristic 4": false,
+        "notes": ""
+    },
+    "38_C1_57.jpeg": {
+        "Characteristic 1": true,
+        "Characteristic 2": false,
+        "Characteristic 3": false,
+        "Characteristic 4": false,
+        "notes": ""
+    },
+    "3_C0_36.jpeg": {
+        "Characteristic 1": false,
+        "Characteristic 2": true,
+        "Characteristic 3": false,
+        "Characteristic 4": false,
+        "notes": ""
+    },
+    "42_C1_41.jpeg": {
+        "Characteristic 1": true,
+        "Characteristic 2": true,
+        "Characteristic 3": false,
+        "Characteristic 4": false,
+        "notes": ""
+    },
+    "43_C1_52.jpeg": {
+        "Characteristic 1": false,
+        "Characteristic 2": true,
+        "Characteristic 3": false,
+        "Characteristic 4": true,
+        "notes": ""
+    },
+    "45_C1_38.jpeg": {
+        "Characteristic 1": true,
+        "Characteristic 2": true,
+        "Characteristic 3": false,
+        "Characteristic 4": false,
+        "notes": ""
+    },
+    "49_C1_36.jpeg": {
+        "Characteristic 1": false,
+        "Characteristic 2": false,
+        "Characteristic 3": false,
+        "Characteristic 4": false,
+        "notes": ""
+    },
+    "4_C1_53.jpeg": {
+        "Characteristic 1": true,
+        "Characteristic 2": true,
+        "Characteristic 3": false,
+        "Characteristic 4": false,
+        "notes": ""
+    },
+    "50_C0_41.jpeg": {
+        "Characteristic 1": false,
+        "Characteristic 2": false,
+        "Characteristic 3": false,
+        "Characteristic 4": true,
+        "notes": ""
+    },
+    "54_C1_47.jpeg": {
+        "Characteristic 1": true,
+        "Characteristic 2": false,
+        "Characteristic 3": false,
+        "Characteristic 4": false,
+        "notes": ""
+    },
+    "55_C1_51.jpeg": {
+        "Characteristic 1": true,
+        "Characteristic 2": true,
+        "Characteristic 3": false,
+        "Characteristic 4": false,
+        "notes": ""
+    },
+    "55_C1_63.jpeg": {
+        "Characteristic 1": true,
+        "Characteristic 2": false,
+        "Characteristic 3": false,
+        "Characteristic 4": false,
+        "notes": ""
+    },
+    "56_C0_38.jpeg": {
+        "Characteristic 1": true,
+        "Characteristic 2": false,
+        "Characteristic 3": false,
+        "Characteristic 4": false,
+        "notes": ""
+    },
+    "5_C0_31.jpeg": {
+        "Characteristic 1": false,
+        "Characteristic 2": false,
+        "Characteristic 3": false,
+        "Characteristic 4": false,
+        "notes": "Normal"
+    },
+    "60_C0_35.jpeg": {
+        "Characteristic 1": true,
+        "Characteristic 2": false,
+        "Characteristic 3": false,
+        "Characteristic 4": false,
+        "notes": ""
+    },
+    "63_C1_49.jpeg": {
+        "Characteristic 1": true,
+        "Characteristic 2": true,
+        "Characteristic 3": true,
+        "Characteristic 4": true,
+        "notes": ""
+    },
+    "64_C1_58.jpeg": {
+        "Characteristic 1": true,
+        "Characteristic 2": true,
+        "Characteristic 3": false,
+        "Characteristic 4": false,
+        "notes": ""
+    }
+}
